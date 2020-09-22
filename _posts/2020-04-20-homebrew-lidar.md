@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Homebrew LiDAR
-title_image: /public/images/2020-04-20-homebrew-lidar/Controller.jpg
+title_image: /public/images/2020-04-20-homebrew-lidar/Scanner.jpg
 ---
 
 ## Introduction
