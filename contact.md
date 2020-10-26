@@ -18,6 +18,13 @@ title: Contact
 </div>
 
 <div class="contact-field">
+  Linkedin
+  <span>
+    <a href="https://www.linkedin.com/in/theo-chemel-84344a18a/">Theo Chemel</a>
+  </span>
+</div>
+
+<div class="contact-field">
   Instructables
   <span>
     <a href="https://www.instructables.com/member/tchemel/">@tchemel</a>
