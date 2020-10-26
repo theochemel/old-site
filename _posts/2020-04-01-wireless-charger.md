@@ -12,7 +12,11 @@ Here's a wireless charging pad I put together. It's made of oak with a walnut ba
 
 This whole project was designed in Onshape, and I used Fusion 360 to generate toolpaths and create renders. Everything was cut out on a Shapeoko 3, glued together, and finished by hand. Check out this tutorial on [Instructables](https://www.instructables.com/id/CNC-Wireless-Charger/) to see the whole process.
 
-![Cutting the Aluminum](/public/images/2020-04-01-wireless-charger/cut-aluminum.jpeg)
+<!-- ![Cutting the Aluminum](/public/images/2020-04-01-wireless-charger/cut-aluminum.jpeg) -->
+<picture>
+  <source srcset="/public/images/2020-04-01-wireless-charger/cut-aluminum.webp" type="image/webp">
+  <img src="/public/images/2020-04-01-wireless-charger/cut-aluminum.jpeg" alt="">
+</picture>
 <div class="caption" markdown="1">
 *Cutting the aluminum inlay.*
 </div>
