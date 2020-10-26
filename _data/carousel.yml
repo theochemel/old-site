@@ -1,15 +1,15 @@
 images: 
-  - image: /public/images/portfolio/Portfolio_Quanta Playground.webp
-  - image: /public/images/portfolio/Portfolio_Mapper 1.webp
-  - image: /public/images/portfolio/Portfolio_Mapper 2.webp
-  - image: /public/images/portfolio/Portfolio_Mapper Basic.webp
-  - image: /public/images/portfolio/Portfolio_LiDAR Scanner 1.webp
-  - image: /public/images/portfolio/Portfolio_LiDAR Scanner 2.webp
-  - image: /public/images/portfolio/Portfolio_LiDAR Scanner Wall Detection.webp
-  - image: /public/images/portfolio/Portfolio_Selfdriving Playground 1.webp
-  - image: /public/images/portfolio/Portfolio_Selfdriving Playground 2.webp
-  - image: /public/images/portfolio/Portfolio_Captures.webp
-  - image: /public/images/portfolio/Portfolio_Wireless Charging Pad 1.webp
-  - image: /public/images/portfolio/Portfolio_Wireless Charging Pad 2.webp
-  - image: /public/images/portfolio/Portfolio_Jewelry Box.webp
-  - image: /public/images/portfolio/Portfolio_CNC Lathe.webp
+  - image: /public/images/portfolio/Portfolio_Quanta Playground.jpg
+  - image: /public/images/portfolio/Portfolio_Mapper 1.jpg
+  - image: /public/images/portfolio/Portfolio_Mapper 2.jpg
+  - image: /public/images/portfolio/Portfolio_Mapper Basic.jpg
+  - image: /public/images/portfolio/Portfolio_LiDAR Scanner 1.jpg
+  - image: /public/images/portfolio/Portfolio_LiDAR Scanner 2.jpg
+  - image: /public/images/portfolio/Portfolio_LiDAR Scanner Wall Detection.jpg
+  - image: /public/images/portfolio/Portfolio_Selfdriving Playground 1.jpg
+  - image: /public/images/portfolio/Portfolio_Selfdriving Playground 2.jpg
+  - image: /public/images/portfolio/Portfolio_Captures.jpg
+  - image: /public/images/portfolio/Portfolio_Wireless Charging Pad 1.jpg
+  - image: /public/images/portfolio/Portfolio_Wireless Charging Pad 2.jpg
+  - image: /public/images/portfolio/Portfolio_Jewelry Box.jpg
+  - image: /public/images/portfolio/Portfolio_CNC Lathe.jpg
